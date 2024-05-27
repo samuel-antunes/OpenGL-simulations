@@ -5,6 +5,7 @@
 
 void init_graphics();
 void draw_particles(const Universe *universe);
+void add_particle(Universe *universe, float x, float y);
 
 #endif
 
