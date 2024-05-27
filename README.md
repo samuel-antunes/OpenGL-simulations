@@ -9,4 +9,4 @@ Project is being developed on Linux, I'm not sure if it'd work on other OS.
 1. Clone this repository.
 2. Install OpenGL and GLUT.
 3. Run `make` to build the project.
-4. Run `./nbody` to run the simulation.
+4. Run `make run` to run the simulation.
